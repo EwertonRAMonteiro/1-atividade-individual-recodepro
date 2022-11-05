@@ -1,4 +1,4 @@
-## :ballot_box_with_check: Recode-Atividade-Pratica-do-Modulo-6
+## :ballot_box_with_check: Recode-Atividade-Pratica-do-Modulo-1
 
 
 ## :computer: Tecnologias Utilizadas
